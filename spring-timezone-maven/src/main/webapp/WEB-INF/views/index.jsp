@@ -13,7 +13,7 @@
     <style type="text/css">
         select {
             width: 200px;
-            height: 20px;
+            height: 21px;
         }
     </style>
 </head>
