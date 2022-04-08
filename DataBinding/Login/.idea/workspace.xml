@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2505f3b8-447e-483f-8ffd-5de2df30bb38" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Form-DataBinding/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Form-DataBinding/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Form-DataBinding/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Form-DataBinding/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Form-DataBinding/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Form-DataBinding/src/main/java/com/cg/controller/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Form-DataBinding/src/main/java/com/cg/model/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Upload-File/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Upload-File/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Upload-File/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Upload-File/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Upload-File/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Product-management-thymleaf/src/main/java/com/codegym/configuration/AppConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Product-management-thymleaf/src/main/java/com/codegym/configuration/AppInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Product-management-thymleaf/src/main/java/com/codegym/controller/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Product-management-thymleaf/src/main/java/com/codegym/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Product-management-thymleaf/src/main/java/com/codegym/service/IProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Product-management-thymleaf/src/main/java/com/codegym/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Product-management-thymleaf/src/main/webapp/WEB-INF/views/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Product-management-thymleaf/src/main/webapp/WEB-INF/views/delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Product-management-thymleaf/src/main/webapp/WEB-INF/views/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Product-management-thymleaf/src/main/webapp/WEB-INF/views/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Product-management-thymleaf/src/main/webapp/WEB-INF/views/layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Product-management-thymleaf/src/main/webapp/WEB-INF/views/view.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../customer-management-thymleaf/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../management-province/src/main/java/com/cg/configuration/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../management-province/src/main/java/com/cg/configuration/AppInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../management-province/src/main/java/com/cg/controller/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../management-province/src/main/java/com/cg/controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../management-province/src/main/java/com/cg/controller/ProvinceController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../management-province/src/main/java/com/cg/formatter/ProvinceFormatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../management-province/src/main/java/com/cg/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../management-province/src/main/java/com/cg/model/Province.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../management-province/src/main/java/com/cg/repository/ICustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../management-province/src/main/java/com/cg/repository/IProvinceRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../management-province/src/main/java/com/cg/service/IGeneralService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../management-province/src/main/java/com/cg/service/customer/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../management-province/src/main/java/com/cg/service/customer/ICustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../management-province/src/main/java/com/cg/service/province/IProvinceService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../management-province/src/main/java/com/cg/service/province/ProvinceService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../management-province/src/main/webapp/WEB-INF/views/customer/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../management-province/src/main/webapp/WEB-INF/views/customer/delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../management-province/src/main/webapp/WEB-INF/views/customer/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../management-province/src/main/webapp/WEB-INF/views/customer/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../management-province/src/main/webapp/WEB-INF/views/error.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../management-province/src/main/webapp/WEB-INF/views/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../management-province/src/main/webapp/WEB-INF/views/province/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../management-province/src/main/webapp/WEB-INF/views/province/delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../management-province/src/main/webapp/WEB-INF/views/province/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../management-province/src/main/webapp/WEB-INF/views/province/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../management-province/src/main/webapp/WEB-INF/views/province/view.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-mvc-form-tutorial/src/main/java/com/codegym/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-mvc-form-tutorial/src/main/java/model/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-mvc-form-tutorial/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-mvc-form-tutorial/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-mvc-form-tutorial/src/main/webapp/WEB-INF/views/create.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-mvc-form-tutorial/src/main/webapp/WEB-INF/views/info.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-mvc-form-tutorial/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring.jpa-grandle/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring.jpa-grandle/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring.jpa-grandle/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring.jpa-grandle/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring.jpa-grandle/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring.jpa-grandle/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring.jpa-grandle/src/main/java/com/cg/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring.jpa-grandle/src/main/java/com/cg/config/AppInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring.jpa-grandle/src/main/java/com/cg/controller/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring.jpa-grandle/src/main/java/com/cg/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring.jpa-grandle/src/main/java/com/cg/repository/ICustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring.jpa-grandle/src/main/java/com/cg/repository/IGeneralRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring.jpa-grandle/src/main/java/com/cg/repository/impl/CustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring.jpa-grandle/src/main/java/com/cg/service/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring.jpa-grandle/src/main/java/com/cg/service/ICustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring.jpa-grandle/src/main/java/com/cg/service/IGeneralService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring.jpa-grandle/src/main/webapp/WEB-INF/views/customer/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring.jpa-grandle/src/main/webapp/WEB-INF/views/customer/delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring.jpa-grandle/src/main/webapp/WEB-INF/views/customer/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring.jpa-grandle/src/main/webapp/WEB-INF/views/customer/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring.jpa-overview/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring.jpa-overview/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring.jpa-overview/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring.jpa-overview/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring.jpa-overview/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring.jpa-overview/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring.jpa-overview/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring.jpa-overview/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring.jpa-overview/src/main/java/com/cg/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring.jpa-overview/src/main/java/com/cg/config/AppInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring.jpa-overview/src/main/java/com/cg/controller/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring.jpa-overview/src/main/java/com/cg/controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring.jpa-overview/src/main/java/com/cg/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring.jpa-overview/src/main/java/com/cg/repository/CustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring.jpa-overview/src/main/java/com/cg/repository/ICustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring.jpa-overview/src/main/java/com/cg/repository/IGeneralRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring.jpa-overview/src/main/java/com/cg/service/CustomerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring.jpa-overview/src/main/java/com/cg/service/ICustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring.jpa-overview/src/main/java/com/cg/service/IGeneralService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring.jpa-overview/src/main/webapp/WEB-INF/views/customer/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring.jpa-overview/src/main/webapp/WEB-INF/views/customer/delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring.jpa-overview/src/main/webapp/WEB-INF/views/customer/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring.jpa-overview/src/main/webapp/WEB-INF/views/customer/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring.jpa-overview/src/main/webapp/WEB-INF/views/home.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="AnnotationType" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="27SDc8Egph7rEZxdeCALdyhWo3J" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.cg.controller" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Login" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.Login" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2505f3b8-447e-483f-8ffd-5de2df30bb38" name="Changes" comment="" />
+      <created>1649304674083</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649304674083</updated>
+      <workItem from="1649304675687" duration="1658000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
